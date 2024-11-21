@@ -8,7 +8,7 @@ describe(`Validate if it is really ${rightMouse.name} ${rightMouse.surname}`, ()
    {
       assert.deepStrictEqual(mouse.name, rightMouse.name, `Name must be" ${rightMouse.name}`)
       assert.deepStrictEqual(mouse.surname, rightMouse.surname, `Surname must be" ${rightMouse.surname}`)
-      assert.deepStrictEqual(mouse.name, rightMouse.name, `Color must be" ${rightMouse.name}`)
+      assert.deepStrictEqual(mouse.color, rightMouse.color, `Color must be" ${rightMouse.color}`)
    });
    it("Validate if it is identical", () =>
    {
