@@ -11,4 +11,4 @@ class Mouse
     }
 }
 
-export default new Mouse("Mickey", "Mouse", "black");
+export default new Mouse("Mickey", "Mouse", "blacki");
