@@ -13,4 +13,6 @@ class Mouse
 
 export default new Mouse("Mickey", "Mouse", "black");
 const speedyGonzales = new Mouse("Speedy", "Gonzales", "brown");
-const timothyQMouse = new Mouse("Timothy", "Q. Mouse", "brown"); 
+const timothyQMouse = new Mouse("Timothy", "Q. Mouse", "brown");
+const minnieMouse = new Mouse("Minnie", "Mouse", "black");
+const geraldJinx = new Mouse("Gerald", "Jinx", "brown"); 
