@@ -1,0 +1,19 @@
+{
+  "name": "mouse-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Zaza Mirotadze",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha build/test",
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^22.9.0",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "typescript": "^4.7.4"
+  }
+}
