@@ -11,6 +11,7 @@ class Mouse
     }
 }
 
+
 export default new Mouse("Mickey", "Mouse", "black");
 
  
